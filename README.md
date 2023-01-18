@@ -4,4 +4,6 @@
 
 [![종혁's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawnmorning&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/react-#61DAFB?style=flat-square&logo=firebase&logoColor=white"/>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=notify9637)](https://solved.ac/notify9637)
