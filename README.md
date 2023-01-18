@@ -4,4 +4,4 @@
 
 [![종혁's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawnmorning&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-#61DAFB?style=flat-square&logo=firebase&logoColor=white"/>
