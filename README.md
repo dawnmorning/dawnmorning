@@ -14,4 +14,4 @@
 
 
 
-[https://velog.io/setting](https://velog.io/@dawn0814)
+https://velog.io/@dawn0814
