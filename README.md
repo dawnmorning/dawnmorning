@@ -29,5 +29,11 @@
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=black">
 </div>
 
-[![Solved.ac
+<div align=center>
+  
+  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=notify9637)](https://solved.ac/notify9637)
+  
+  </div>
+
+
