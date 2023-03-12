@@ -1,6 +1,6 @@
 # 세상을 한 걸음씩 발전시키고 싶습니다. 
 # 열심히 쫓아가다가도 페이스메이커가 되는 개발자 김종혁입니다.
-,,,
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 
 
