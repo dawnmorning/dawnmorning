@@ -13,14 +13,14 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/vue.js-00A500?style=for-the-badge&logo=vue.js&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
-  <img src="https://img.shields.io/badge/next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black">  
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">  
 </div>
 
 
 <div align=center><h2>CO-WORK SKill</h2></div>
 <div align = center>
   
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black">
   <img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=black">
