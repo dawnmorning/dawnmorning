@@ -1,8 +1,10 @@
 # 세상을 한 걸음씩 발전시키고 싶습니다. 
 # 열심히 쫓아가다가도 페이스메이커가 되는 개발자 김종혁입니다.
+# I love JAAAZZZZ!!
 <div align=center><h1>📚 STACKS</h1></div>
 
-<div align=center> 
+<div align=center>
+  ## Front-end Skill
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=black">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=black">  
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -13,6 +15,7 @@
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=black">  
 </div>
 <div align = center>
+  ## co-work tool
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black">
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black">
   <img src="https://img.shields.io/badge/notion-FC6D26?style=for-the-badge&logo=notion&logoColor=black">
