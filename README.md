@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=black">  
 </div>
+<br/>
+
 <div align = center>
   <h2> co-work tool </h2>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black">
@@ -22,13 +24,19 @@
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=black">
 </div>
 
+<br/>
+<br/>
+<br/>
+<br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdawnmorning&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
 
 
-
+<br/>
+<br/>
+<br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=notify9637)](https://solved.ac/notify9637)
 
