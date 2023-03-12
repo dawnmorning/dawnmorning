@@ -9,7 +9,7 @@
 </h2>
 <div align=center><h1>📚 STACKS</h1></div>
 
-<h2> Front-end Skill </h2>
+<div align=center><h1>Front-end SKill</h1></div>
 <div align=center>
   
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=black">
@@ -23,7 +23,7 @@
 </div>
 
 
-<h2> co-work tool </h2>
+<div align=center><h1>CO-WORK SKill</h1></div>
 <div align = center>
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black">
