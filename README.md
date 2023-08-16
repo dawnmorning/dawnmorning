@@ -19,6 +19,11 @@
   </div>
 </div>
 
+<div align=center><h2>Back-end Skill</h2></div>
+<div align=center>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+</div>
+
 
 <div align=center><h2>CO-WORK SKill</h2></div>
 <div align = center>
@@ -27,5 +32,7 @@
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black">
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=black">
 </div>
+
+
 
 
